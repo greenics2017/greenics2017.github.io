@@ -1,0 +1,41 @@
+.navbar .nav>.active>a,.navbar .nav>.active>a:hover,.navbar .nav>.active>a:focus {
+	background:#216b12;	
+	opacity: 30;
+}
+.navbar-custom .navbar-nav > .active > a {
+    color: #ffffff;
+    background-color:transparent;
+}
+.btn-default {
+	background-color:#216b12;
+}
+.footerdivide {
+	background:#216b12;
+}
+.buttoncolor {
+	background:#216b12;
+}
+.grid figcaption {
+	color:#4ba2dc;
+}
+.grid figcaption a {	
+	background:#216b12;
+}
+.colortext {
+	color:#216b12;
+}
+.colorbg {
+	background:#216b12;
+}
+ #Section-1 {
+	background:#216b12;
+}
+ #Section-3 {
+	background:#216b12;
+}
+ #Section-5 {
+	background:#216b12;
+}
+ footer {
+	background:#216b12;
+}
